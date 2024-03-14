@@ -24,6 +24,7 @@ Welcome to the forefront of cybersecurity innovation! At Compozite Research, we'
 * Attribute-Based Encryption (ABE)
 
 _How to Reach Us_
+
 Ready to elevate your cybersecurity game? Reach out to us at team@compoziteresearch.xyz and let's embark on a journey to safeguard the digital frontier together!
 
 
