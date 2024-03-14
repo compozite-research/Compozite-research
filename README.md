@@ -1,4 +1,4 @@
-# Welcome to Compozite Research 🚀#
+# Welcome to Compozite Research 🚀
 
 **About Us**
 
