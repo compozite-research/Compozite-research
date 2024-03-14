@@ -1,6 +1,7 @@
 # Welcome to Compozite Research 🚀#
 
 **About Us**
+
 Welcome to the forefront of cybersecurity innovation! At Compozite Research, we're not just pushing the boundaries – we're rewriting the rules. With a team of relentless innovators and trailblazers, we're dedicated to revolutionizing the world of cryptography. From cutting-edge Zero-Knowledge Proofs to mind-blowing Fully Homomorphic Encryption, we're here to safeguard your digital universe with unparalleled expertise and creativity.
 
 **What We Do**
