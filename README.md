@@ -28,5 +28,7 @@ _How to Reach Us_
 Ready to elevate your cybersecurity game? Reach out to us at team@compoziteresearch.xyz and let's embark on a journey to safeguard the digital frontier together!
 
 
+![Compozite Research Cover Page](https://github.com/user-attachments/assets/211728f1-de4f-410a-8626-0f818b50fb25)
 
-![photo_2024-02-05_15-03-45](https://github.com/compozite-research/Compozite-research/assets/162004675/cc69c5d7-418e-4b91-8a2e-3d145b51c7f0)
+
+
